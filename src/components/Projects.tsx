@@ -14,7 +14,7 @@ const Projects = () => {
       id: 1,
       title: 'Smart Healthcare Management System',
       description: 'A web application for managing Healthcare operations and patient records via IoT.',
-      image: '',
+      image: 'smartheal.jpg',
       category: 'professional',
       technologies: ['HTML', 'CSS', 'JavaScript','Python','PostgreSQL'],
       githubUrl: 'https://github.com/harish9710100485/samrt-healthcare.github.io'
@@ -23,7 +23,7 @@ const Projects = () => {
       id: 3,
       title: 'Skin Disease Prediction using Image Processing',
       description: 'A professional website for Image-based skin disease prediction system.',
-      image: '',
+      image: 'skindise.png',
       category: 'professional',
       technologies: ['Python'],
       liveUrl: 'https://github.com/harish9710100485/Skin-disease-prediction-using-Image-processing'
@@ -32,7 +32,7 @@ const Projects = () => {
       id: 6,
       title: 'Hands-on projects',
       description: 'Worked on major client projects like Bonfiglioli, Venture Lighting, and Minerva custom ERP projects',
-      image: '',
+      image: 'handson.jfif',
       category: 'personal',
       technologies: ['HTML', 'CSS', 'JavaScript','PHP','PostgreSQL']}]
       
