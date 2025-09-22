@@ -7,7 +7,7 @@ import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle }
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 
-/*const Certificate = () => {
+const Certificate = () => {
   const certificates = [
     {
       id: 1,
@@ -85,4 +85,4 @@ import { Button } from "@/components/ui/button";
   );
 };
 
-export default Certificate;*/
+export default Certificate;
