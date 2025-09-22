@@ -16,7 +16,7 @@ const About = () => {
             <h3 className="text-2xl font-semibold">Personal Details</h3>
             <p><strong>Full Name:</strong> Harish P</p>
             <p><strong>Contact:</strong> +91 97101 00485</p>
-            <p><strong>Email:</strong> <a href="mailto:pharish2309@gmail.com" className="text-indigo-500 hover:underline">mailto:pharish2309@.com</a></p>
+            <p><strong>Email:</strong> <a href="mailto:pharish2309@gmail.com" className="text-indigo-500 hover:underline">pharish2309@gmail.com</a></p>
             <p className="mt-4">
               "Web Application Developer with hands-on experience working on projects like Capex Raising System, 
               Ticket Raising & Closing System, ERP Workflow System, and Forecast Analysis System in Python. 
