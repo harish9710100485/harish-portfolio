@@ -52,7 +52,7 @@ const About = () => {
             <CardContent className="p-6 text-center">
               <h3 className="text-xl font-bold mb-4">Download Resume</h3>
               <a 
-                href="https://drive.google.com/file/d/1sLUKtoo9zjwcSjyeyhav7MRkhShy3EA3/view?usp=drive_link" 
+                href="https://drive.google.com/file/d/1toQJSFjPLAXKeOVPDdct3vZUEFWUU10p/view?usp=drive_link" 
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-block px-6 py-3 bg-indigo-600 hover:bg-indigo-700 text-white rounded-md font-medium transition duration-300"
