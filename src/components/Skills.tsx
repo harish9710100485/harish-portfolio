@@ -6,11 +6,11 @@ import { Badge } from './ui/badge';
 
 const Skills = () => {
   const technicalSkills = [
-    { name: 'HTML & CSS', progress: 90 },
-    { name: 'JavaScript', progress: 85 },
+    { name: 'HTML', progress: 90 },
+    { name: 'JavaScript', progress: 80 },
     { name: 'CSS', progress: 80 },
-    { name: 'PHP', progress: 80 },
-    { name: 'PostgreSQL', progress: 80 },
+    { name: 'PHP', progress: 70 },
+    { name: 'PostgreSQL', progress: 70 },
     { name: 'Python', progress: 75 }
   ];
 
