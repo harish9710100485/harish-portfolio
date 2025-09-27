@@ -18,10 +18,10 @@ const About = () => {
             <p><strong>Contact:</strong> +91 97101 00485</p>
             <p><strong>Email:</strong> <a href="mailto:pharish2309@gmail.com" className="text-indigo-500 hover:underline">pharish2309@gmail.com</a></p>
             <p className="mt-4">
-              "Web Application Developer with hands-on experience working on projects like Capex Raising System, 
+              Web Application Developer with hands-on experience working on projects like Capex Raising System, 
               Ticket Raising & Closing System, ERP Workflow System, and Forecast Analysis System in Python. 
               Skilled in HTML, CSS, JavaScript, PHP, and Python, with a strong passion for building efficient, scalable, 
-              and user-friendly web solutions. Always eager to learn, innovate, and contribute to impactful projects that drive organizational success."
+              and user-friendly web solutions. Always eager to learn, innovate, and contribute to impactful projects that drive organizational success.
             </p>
           </div>
 
