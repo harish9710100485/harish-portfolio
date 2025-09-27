@@ -11,21 +11,12 @@ const Certificate = () => {
   const certificates = [
     {
       id: 1,
-      title: "Create a WordPress website with Hostinger",
-      issuer: "Udemy",
-      date: "Dec 2023",
-      description: "Comprehensive training in creating and managing WordPress websites using Hostinger hosting platform.",
-      skills: ["WordPress", "Web Hosting", "CMS", "Web Design"],
-      credentialUrl: "https://www.udemy.com/certificate/UC-cc849133-c248-495b-bfd6-cf6fa4d92203/"
-    },
-    {
-      id: 2,
-      title: "Angular",
-      issuer: "Infosys",
-      date: "Oct 2022",
-      description: "Professional certification covering Angular framework concepts, components, services, and modern web development practices.",
-      skills: ["Angular", "TypeScript", "Web Development", "Frontend"],
-      credentialUrl: "https://drive.google.com/file/d/1GoRARzQkVb5O2ov8PA4yPcI1AMR6B-we/view?usp=drivesdk"
+      title: "DevOps Certification",
+      issuer: "GUVI",
+      date: "May 2025",
+      description: "DevOps is the practice of unifying development and operations to deliver software faster, reliably, and continuously.",
+      skills: ["Git", "CI/CD", "Docker", "Kubernetes", "Terraform"],
+      credentialUrl: "https://drive.google.com/file/d/1Ga8XeJdTYIEPxWX1I6DFyx-4B3br-qlk/view?usp=drive_link"
     },
     
   ];
