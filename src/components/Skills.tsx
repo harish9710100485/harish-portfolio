@@ -126,7 +126,7 @@ const Skills = () => {
             <CardContent className="p-6 mt-2">
               <h3 className="text-xl font-bold mb-4 heading-gradient">Hobbies</h3>
               <ul className="list-disc pl-5 space-y-1">
-                <li>Walking</li>
+                <li>Gym</li>
                 <li>Reading Books</li>
                 <li>Playing Video Games</li>
               </ul>
