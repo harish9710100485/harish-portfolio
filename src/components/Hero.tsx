@@ -23,7 +23,7 @@ const Hero = () => {
             
             <div className="flex flex-wrap gap-4 mb-12">
               <Button className="btn-primary animate-fadeInUp animate-delay-400" asChild>
-                <a href="https://drive.google.com/file/d/1gGIKLiaXR3dJrgiRgwMoVULUXL-BOWV-/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+                <a href="https://drive.google.com/file/d/1MJ15yLHkAe99x8y98-WxK0CljxUAh3aS/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
                   Download Resume
                 </a>
               </Button>
@@ -55,7 +55,7 @@ const Hero = () => {
           
           <div className="order-1 md:order-2 flex justify-center">
             <div className="w-64 h-64 sm:w-80 sm:h-80 bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 rounded-full overflow-hidden relative animate-fadeInUp hover-scale">
-              <img src="/lovable-uploads/7116187a-9f35-4ed1-86fb-a6ef3604b017.png" alt="Maheshwaran M" className="w-full h-full object-cover" />
+              <img src="/lovable-uploads/7116187a-9f35-4ed1-86fb-a6ef3604b017.png" alt="Harish p" className="w-full h-full object-cover" />
             </div>
           </div>
         </div>
