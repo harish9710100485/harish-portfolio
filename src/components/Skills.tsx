@@ -5,14 +5,42 @@ import { Card, CardContent } from './ui/card';
 import { Badge } from './ui/badge';
 
 const Skills = () => {
-  const technicalSkills = [
-    { name: 'HTML', progress: 90 },
-    { name: 'JavaScript', progress: 80 },
-    { name: 'CSS', progress: 80 },
-    { name: 'PHP', progress: 70 },
-    { name: 'PostgreSQL', progress: 70 },
-    { name: 'Python', progress: 75 }
-  ];
+// Frontend Skills
+const frontendSkills = [
+  { name: 'HTML5', progress: 90 },
+  { name: 'CSS3', progress: 80 },
+  { name: 'JavaScript(ES6+)', progress: 80 },
+  { name: 'Bootstrap', progress: 75 }
+];
+
+// Backend Skills
+const backendSkills = [
+  { name: 'PHP', progress: 70 },
+  { name: 'Python', progress: 75 },
+  { name: 'Flask', progress: 70 },
+  { name: 'RESTful APIs', progress: 70 }
+];
+
+// Database Skills
+const databaseSkills = [
+  { name: 'PostgreSQL', progress: 70 },
+  { name: 'MySQL', progress: 70 }
+];
+
+// Platforms & Frameworks
+const platformSkills = [
+  { name: 'WordPress', progress: 80 },
+  { name: 'WooCommerce', progress: 75 },
+  { name: 'Flutter', progress: 65 }
+];
+
+// Tools & Others
+const toolSkills = [
+  { name: 'Git/GitHub', progress: 75 },
+  { name: 'ERP Workflows', progress: 65 },
+  { name: 'WAMP/XAMPP', progress: 70 }
+];
+
 
   const softSkills = [
     'Communication Skills',
