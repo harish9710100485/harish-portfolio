@@ -101,18 +101,24 @@ const technicalSkills = [
             </CardContent>
           </Card>
           
-          <Card className="overflow-hidden border-indigo-500/20 hover:border-indigo-500 transition-colors hover-scale animate-fadeInUp animate-delay-100">
-            <div className="h-2 bg-gradient-to-r from-purple-500 to-pink-500"></div>
-            <CardContent className="p-6 mt-2">
-              <h3 className="text-xl font-bold mb-4 heading-gradient">Language Proficiency</h3>
-              <div className="flex flex-wrap gap-2">
-                <Badge className="bg-orange-500 hover:bg-orange-600">HTML, CSS</Badge>
-                <Badge className="bg-blue-500 hover:bg-blue-600">Javascript</Badge>
-                <Badge className="bg-cyan-500 hover:bg-cyan-600">PostgreSQL</Badge>
-                <Badge className="bg-purple-500 hover:bg-purple-600">PHP</Badge>
-              </div>
-            </CardContent>
-          </Card>
+        <Card className="overflow-hidden border-indigo-500/20 hover:border-indigo-500 transition-colors hover-scale animate-fadeInUp animate-delay-100">
+          <div className="h-2 bg-gradient-to-r from-purple-500 to-pink-500"></div>
+          <CardContent className="p-6 mt-2">
+            <h3 className="text-xl font-bold mb-4 heading-gradient">MINERVA SOFT | WEB APPLICATION DEVELOPER INTERN</h3>
+            <p className="text-sm text-gray-700 dark:text-gray-300 mb-2">
+              <strong>Jan 2025 – Mar 2025 | Chennai, TN</strong>
+            </p>
+            <ul className="list-disc pl-5 space-y-1 text-gray-700 dark:text-gray-300">
+              <li>Engineered a multi-model sales forecasting pipeline leveraging Linear Regression, Facebook Prophet, ARIMA, SARIMA, and XGBoost, orchestrated in Python to generate high-accuracy predictive insights.</li>
+              <li>Designed and optimized data preprocessing workflows using NumPy, Pandas, and Scikit-learn, reducing model training latency by 30%.</li>
+              <li>Integrated forecasting outputs with visual analytics dashboards, enabling data-driven business decisions and improving forecast precision by ~25%.</li>
+            </ul>
+            <p className="mt-3 font-medium text-gray-800 dark:text-gray-200">
+              <strong>Tech Stack:</strong> Python (Flask, Pandas, NumPy, Scikit-learn, Prophet, XGBoost, ARIMA/SARIMA) | Virtual Environment for dependency management
+            </p>
+          </CardContent>
+        </Card>
+
           
           <Card className="overflow-hidden border-indigo-500/20 hover:border-indigo-500 transition-colors hover-scale animate-fadeInUp animate-delay-200">
             <div className="h-2 bg-gradient-to-r from-pink-500 to-indigo-500"></div>
