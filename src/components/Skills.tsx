@@ -5,48 +5,24 @@ import { Card, CardContent } from './ui/card';
 import { Badge } from './ui/badge';
 
 const Skills = () => {
-// Frontend Skills
-const frontendSkills = [
+const technicalSkills = [
   { name: 'HTML5', progress: 90 },
-  { name: 'CSS3', progress: 80 },
   { name: 'JavaScript(ES6+)', progress: 80 },
-  { name: 'Bootstrap', progress: 75 }
-];
-
-// Backend Skills
-const backendSkills = [
+  { name: 'CSS3', progress: 80 },
+  { name: 'Bootstrap', progress: 75 },
   { name: 'PHP', progress: 70 },
-  { name: 'Python', progress: 75 },
-  { name: 'Flask', progress: 70 },
-  { name: 'RESTful APIs', progress: 70 }
-];
-
-// Database Skills
-const databaseSkills = [
   { name: 'PostgreSQL', progress: 70 },
-  { name: 'MySQL', progress: 70 }
-];
-
-// Platforms & Frameworks
-const platformSkills = [
   { name: 'WordPress', progress: 80 },
-  { name: 'WooCommerce', progress: 75 },
-  { name: 'Flutter', progress: 65 }
+  { name: 'Python', progress: 75 }
 ];
 
-// Tools & Others
-const toolSkills = [
-  { name: 'Git/GitHub', progress: 75 },
-  { name: 'ERP Workflows', progress: 65 },
-  { name: 'WAMP/XAMPP', progress: 70 }
-];
 
 
   const softSkills = [
-    'Communication Skills',
+    'Team Player',
     'Leadership',
     'Always willing to learn',
-    'Environmentally adjustable'
+    'Adaptable'
   ];
 
   return (
@@ -116,9 +92,11 @@ const toolSkills = [
             <CardContent className="p-6 mt-2">
               <h3 className="text-xl font-bold mb-4 heading-gradient">Technical Expertise</h3>
               <ul className="list-disc pl-5 space-y-1">
-                <li>Web Development: HTML, CSS, JavaScript, SQL</li>
-                <li>Database & Backend: PostgreSQL,PHP, REST APIs</li>
-                <li>Data visualization: Echart,Power BI</li>
+                <li>Languages & Web Tech:PHP, JavaScript (ES6+), HTML5, CSS3, Bootstrap.</li>
+                <li>Database: PostgreSQL,MySQL.</li>
+                <li>Tools & Architecture: RESTful APIs, Git/GitHub, ERP Workflows,WAMP/XAMPP (Local Hosting).</li>
+                <li>Platforms & Frameworks: WordPress, WooCommerce, Flask (Python), Flutter.</li>
+                <li>Core Competencies: Full-Stack Development , Business Process Automation.</li>
               </ul>
             </CardContent>
           </Card>
