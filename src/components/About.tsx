@@ -38,7 +38,7 @@ const About = () => {
             <div>
               <h3 className="text-2xl font-semibold">Internships</h3>
               <ul className="list-disc pl-5 space-y-2 mt-2">
-                <li><strong>Web Application Developer</strong> - Minervasoft, Chennai (Jan 1 – Apr 30, 2025) (Sales forecasting project using Python)</li>
+                <li><strong>Junior Software Developer</strong> - Minervasoft, Chennai (Jan 1 – Apr 30, 2025) (Sales forecasting project using Python)</li>
                 <li><strong>ERP Workflow Projects</strong> - Minervasoft, Chennai (2025) Custom ERP modules, ticketing, capex, and forecasting</li>
 
                 
