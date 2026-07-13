@@ -67,7 +67,7 @@ const Footer = () => {
           </div>
           
           <p className="text-muted-foreground text-center animate-fadeInUp animate-delay-300">
-            &copy; {currentYear} Harish P. All rights reserved.<br />
+            &copy; {currentYear} Harish Perumal. All rights reserved.<br />
             Designed by Harish
           </p>
         </div>
