@@ -14,10 +14,10 @@ const Hero = () => {
               <span className="heading-gradient">Harish P</span>
             </h1>
             <h2 className="text-2xl sm:text-3xl font-semibold mb-6 animate-fadeInUp animate-delay-200">
-              Web Application Developer
+              Junior Software Developer
             </h2>
             <p className="text-muted-foreground text-lg mb-8 max-w-xl animate-fadeInUp animate-delay-300">
-              Web Application Developer with experience in Capex, Ticket, ERP, and Forecasting projects using Python. 
+              Junior Software Developer with experience in Capex, Ticket, ERP, and Forecasting projects using Python. 
               Skilled in HTML, CSS, JavaScript, PHP, and Python, passionate about building efficient, user-friendly web apps..
             </p>
             
