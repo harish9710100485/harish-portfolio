@@ -13,7 +13,7 @@ const Navbar = () => {
       <div className="container-custom mx-auto">
         <div className="py-4 flex justify-between items-center">
           <Link to="/" className="text-xl font-bold heading-gradient">
-            Harish P
+            Harish Perumal
           </Link>
 
           {/* Desktop Menu */}
