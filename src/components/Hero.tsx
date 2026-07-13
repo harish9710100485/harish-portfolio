@@ -11,7 +11,7 @@ const Hero = () => {
           <div className="order-2 md:order-1">
             <p className="text-lg text-indigo-500 font-medium mb-2 animate-fadeInUp">Hello, I'm</p>
             <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold leading-tight mb-4 animate-fadeInUp animate-delay-100">
-              <span className="heading-gradient">Harish P</span>
+              <span className="heading-gradient">Harish Perumal</span>
             </h1>
             <h2 className="text-2xl sm:text-3xl font-semibold mb-6 animate-fadeInUp animate-delay-200">
               Junior Software Developer
