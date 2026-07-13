@@ -20,7 +20,7 @@ const Footer = () => {
             <ArrowUp className="h-5 w-5" />
           </Button>
           
-          <h2 className="text-2xl font-bold heading-gradient mb-6 animate-fadeInUp">Harish P</h2>
+          <h2 className="text-2xl font-bold heading-gradient mb-6 animate-fadeInUp">Harish Perumal</h2>
           
           <div className="flex flex-wrap gap-6 mb-8 justify-center">
             <a href="#home" className="text-foreground hover:text-indigo-500 transition-colors animate-fadeInUp animate-delay-100">Home</a>
