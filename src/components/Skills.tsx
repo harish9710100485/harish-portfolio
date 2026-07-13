@@ -104,7 +104,7 @@ const technicalSkills = [
         <Card className="overflow-hidden border-indigo-500/20 hover:border-indigo-500 transition-colors hover-scale animate-fadeInUp animate-delay-100">
           <div className="h-2 bg-gradient-to-r from-purple-500 to-pink-500"></div>
           <CardContent className="p-6 mt-2">
-            <h3 className="text-xl font-bold mb-4 heading-gradient">MINERVA SOFT | WEB APPLICATION DEVELOPER INTERN</h3>
+            <h3 className="text-xl font-bold mb-4 heading-gradient">MINERVA SOFT | Junior Software Developer Intern</h3>
             <p className="text-sm text-gray-700 dark:text-gray-300 mb-2">
               <strong>Jan 2025 – Mar 2025 | Chennai, TN</strong>
             </p>
