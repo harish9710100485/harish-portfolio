@@ -15,7 +15,6 @@ const About = () => {
           <div className="space-y-2">
             <h3 className="text-2xl font-semibold">Personal Details</h3>
             <p><strong>Full Name:</strong> Harish Perumal</p>
-            <p><strong>Contact:</strong> +91 97101 00485</p>
             <p><strong>Email:</strong> <a href="mailto:pharish2309@gmail.com" className="text-indigo-500 hover:underline">pharish2309@gmail.com</a></p>
             <p className="mt-4">
               Junior Software Developer with hands-on experience working on projects like Capex Raising System, 
